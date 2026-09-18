@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sable Quill
+# Hello. I am Sable Quill:
 
 **Blockchain Engineer** · protocols · wallets · infra under pressure
 
