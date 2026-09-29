@@ -39,7 +39,7 @@ Less hype theater — more correctness under pressure.
 
 ### featured work
 
- > (replace with protocol / wallet / indexer repos as the blockchain track lands)*
+(replace with protocol / wallet / indexer repos as the blockchain track lands)
 
 ---
 
