@@ -39,10 +39,7 @@ Less hype theater — more correctness under pressure.
 
 ### featured work
 
-- [`America-Bank-Frontend`](https://github.com/sablequill/America-Bank-Frontend) — TypeScript frontend (interim pin)
-- [`Laravel_ECommerce`](https://github.com/sablequill/Laravel_ECommerce) — commerce backend (interim pin)
-
-*(replace with protocol / wallet / indexer repos as the blockchain track lands)*
+ > (replace with protocol / wallet / indexer repos as the blockchain track lands)*
 
 ---
 
